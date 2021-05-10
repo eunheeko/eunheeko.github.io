@@ -3,7 +3,9 @@ layout: page
 title: cv
 ---
 
-Education
+##Education
+- 2021.02 : B.S. in Physics, Dept. of Physics and Astronomy, Seoul National University, Korea 
+- 2021.03 - present : M.S. in Astronomy, Dept. of Physics and Astronomy, Seoul National University, Korea 
 
 Research
 
