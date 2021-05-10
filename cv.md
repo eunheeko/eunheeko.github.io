@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: CV
 ---
 
 ## Education
@@ -8,8 +8,8 @@ title: cv
 - 2021.03 - present : M.S. in Astronomy, Dept. of Physics and Astronomy, Seoul National University, Korea 
 
 ## Research
-Prof. Jay Farihi
-Prof. Myungshin Im
+- 2019.07 - 2019.08 : Prof. Jay Farihi
+- 2020.01 - present : Prof. Myungshin Im
 
 
 ## papers
