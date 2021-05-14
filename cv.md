@@ -12,5 +12,9 @@ title: CV
 - 2020.01 - present : Prof. Myungshin Im
 
 
-## papers
+## Papers
 - Testing Web Feeding Model for Star Formation in Galaxy Clusters in the COSMOS Field (in prep)
+
+## Talk & Poster
+- KAS spring meeting - poster
+- Galaxy Cluster Formation II (GCF 2021) - poster
