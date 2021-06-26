@@ -17,4 +17,4 @@ title: CV
 
 ## Talk & Poster
 - KAS spring meeting - poster
-- Galaxy Cluster Formation II (GCF 2021) - poster
+- Galaxy Cluster Formation II (GCF 2021) - [poster](assets/img/Ko_poster_full.png)
