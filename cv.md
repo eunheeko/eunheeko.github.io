@@ -18,3 +18,6 @@ title: CV
 ## Talk & Poster
 - KAS spring meeting - [poster](assets/img/PGC-03_고은희 (1).pdf)
 - Galaxy Cluster Formation II (GCF 2021) - [poster](assets/img/Ko_poster_full.png)
+
+## Scholarship
+- 2021.03 - present : BK 우수인재 fellowship
