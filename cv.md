@@ -16,7 +16,7 @@ title: CV
 - Testing Web Feeding Model for Star Formation in Galaxy Clusters in the COSMOS Field (in prep)
 
 ## Talk & Poster
-- KAS spring meeting - [poster](assets/img/KAS_poster.pdf)
+- KAS spring 2021 meeting - [poster](assets/img/KAS_poster.pdf)
 - Galaxy Cluster Formation II (GCF 2021) - [poster](assets/img/Ko_poster_full.png)
 
 ## Scholarship
